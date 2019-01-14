@@ -9,10 +9,12 @@
 		- could be used in almost any game with slight modifications
 		- Included, but not limited to Player, NPCs, Enemies, Items, etc...
 		- The way the Player character looked was part of this
-	- Save/Load ability
+	- Save/Load process
 		- Players location in the game story and pysical location
 	- JSON parser
 		- Stats, Story Dialog and Other Dialog
+- Login Menu
+	- This ultimatily was part of the load process or new game
 - Battle System
 	- Start of Battle
 		- Location of Charaters and Enemies
@@ -36,4 +38,5 @@
 	- Scripts to make sure the JSON Parse did not fail
 ------------
 I most likely will not go back to this code and really modifiy it. My other intrests sadly do not leave me with enough time to make this better.<br>
-I do think that it could be used by others as a basis to their projects.
+I do think that the code could be used by others as help for their projects, but that they would need to look up tutorials on Unity. I know I would have to look at them again, if I were to go back to this project.<br><br>
+Upload 1/14/2019
