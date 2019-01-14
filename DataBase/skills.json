@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Default",
+        "description": "whatever",
+        "physmaginot": "Not",
+        "powertypeone": "None",
+        "typeone": 0,
+        "powertypetwo": "None",
+        "typetwo": 0,
+        "crit": false,
+        "manacost": 0,
+        "powerpointcost": 0,
+        "healthcost": 0,
+        "statuseffectid": 0
+    },
+    {
+        "id": 0,
+        "name": "Default",
+        "description": "Heal",
+        "physmaginot": "Magical",
+        "powertypeone": "Health",
+        "typeone": 10,
+        "powertypetwo": "None",
+        "typetwo": 0,
+        "crit": false,
+        "manacost": 10,
+        "powerpointcost": 0,
+        "healthcost": 0,
+        "statuseffectid": 0
+    }
+]

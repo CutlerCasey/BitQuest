@@ -1,0 +1,50 @@
+[
+    {
+        "itemid": 0,
+        "itemname": "Default",
+        "itemdescription": "Default Description",
+        "stackable": false,
+        "itemtype": "ITEM",
+        "quest": true,
+        "inventorybattle": false,
+        "cost": 0,
+        "tag": "Default_POTION_STAMINA",
+        "invoitemtype": "POTION",
+        "inventoryfield": false,
+        "spelleffectsid": 0,
+        "potiontype": "STAMINA",
+        "infinteusage": false
+    },
+    {
+        "itemid": 1,
+        "itemname": "Herb",
+        "itemdescription": "A common healing herb essential for any wayward traveler.",
+        "stackable": true,
+        "itemtype": "ITEM",
+        "quest": false,
+        "inventorybattle": true,
+        "cost": 10,
+        "tag": "Herb_Common",
+        "invoitemtype": "POTION",
+        "inventoryfield": true,
+        "spelleffectsid": 0,
+        "potiontype": "HEALTH",
+        "infinteusage": false
+    },
+    {
+        "itemid": 2,
+        "itemname": "Robust Herb",
+        "itemdescription": "A potent herb commonly used by healers and clerics.",
+        "stackable": true,
+        "itemtype": "ITEM",
+        "quest": false,
+        "inventorybattle": true,
+        "cost": 25,
+        "tag": "Herb_Robust",
+        "invoitemtype": "POTION",
+        "inventoryfield": true,
+        "spelleffectsid": 0,
+        "potiontype": "HEALTH",
+        "infinteusage": false
+    }
+]

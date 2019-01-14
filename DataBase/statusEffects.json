@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "name": "Default",
+        "description": "whatever",
+        "applypercent": 100,
+        "effectdmg": 0,
+        "staypercent": 50,
+        "minturns": 1,
+        "maxturns": 1,
+        "statchange1": "None",
+        "statmulti1": 125,
+        "statchange2": "None",
+        "statmulti2": 100
+    }
+]
